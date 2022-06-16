@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+<meta-equiv="X-UA-Compatible" content="css/html" />
+<head>
+<img src="image33.jpg" class="icon-image/n" width="60" height="60" />
+<center>Trymyw33d.site Pagemaker</center>
+<style>
+icon{img src : "image22.png" ,
+border-box : border 3px ,
+color : inherit
+;}
+text{color : blue
+;}
+hr{
+color : "green"
+width : 100%
+;}
+</style>
+</head>
+<hr>
+<body>
+
+<applet>
+<ins>
+<Content-Type="application/javascript" />
+</ins>
+</applet>
+
+</body>
+</html>
